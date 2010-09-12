@@ -1,0 +1,4 @@
+sinatra
+hpricot
+open-uri
+haml
