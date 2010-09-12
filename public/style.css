@@ -1,0 +1,23 @@
+/* @override http://localhost:4567/style.css */
+
+body {
+	font-family: "Helvetica Neue", "Helvetica", Arial, Helvetica, Geneva, sans-serif; 
+	text-align: center;
+}
+
+h1 {
+	font-size: 500%;
+}
+
+span {
+	color: silver;
+}
+
+#gold {
+	color: gold;
+}
+
+#euro {
+	color: green;
+}
+
