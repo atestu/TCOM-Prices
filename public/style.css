@@ -1,23 +1,22 @@
 /* @override http://localhost:4567/style.css */
 
 body {
-	font-family: "Helvetica Neue", "Helvetica", Arial, Helvetica, Geneva, sans-serif; 
+	margin: 0px;
+	padding: 0px;
+	font-family: "Futura", "Helvetica Neue", "Helvetica", Arial, Helvetica, Geneva, sans-serif; 
 	text-align: center;
 }
 
 h1 {
 	font-size: 500%;
-}
-
-span {
-	color: silver;
+	margin: 20px;
 }
 
 #gold {
-	color: gold;
+	color: goldenrod;
 }
 
 #euro {
-	color: green;
+	color: #27753c;
 }
 
