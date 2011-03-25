@@ -1,10 +1,18 @@
-/* @override http://localhost:4567/style.css */
+/* @override 
+	http://0.0.0.0:4567/style.css
+*/
 
 body {
 	margin: 0px;
 	padding: 0px;
 	font-family: "Futura", "Helvetica Neue", "Helvetica", Arial, Helvetica, Geneva, sans-serif; 
 	text-align: center;
+}
+
+span {
+	font-size: 13px;
+	display: block;
+	opacity: .5;
 }
 
 h1 {
